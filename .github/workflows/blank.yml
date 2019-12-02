@@ -10,4 +10,4 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Test of test.sh
-      run: ./test.sh
+      run: chmod +x test.sh; ./test.sh
