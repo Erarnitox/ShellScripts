@@ -1,6 +1,6 @@
-#Taken from: https://www.tecmint.com/basic-shell-programming-part-ii/
-
 #!/bin/sh
+
+# Taken from: https://www.tecmint.com/basic-shell-programming-part-ii/
 
 MAX=95
 EMAIL=USER@domain.com
