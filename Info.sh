@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/bin/sh
+
 #Display basic information about the system
 echo "SYSTEM INFO:"
 echo "--------------------------"
