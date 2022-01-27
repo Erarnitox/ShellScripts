@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # This script edits a video:
 # 1) It adds a watermark picture
 # 2) it boosts the audio of the original clip
@@ -6,8 +8,6 @@
 # 5) generate a thumbnail for the video
 
 # Programs required: ffmpeg, convert
-
-#!/bin/sh
 
 TITLE=$2
 INTRO="/home/me/Projects/Erarnitox/Video/intro.mkv"
